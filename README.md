@@ -6,11 +6,11 @@
 - [Component based web development 📦](https://www.droptica.com/blog/component-based-design/)
 - [JSX](https://reactjs.org/docs/introducing-jsx.html)
 - Introduction to React
+- [Create React App](https://create-react-app.dev/docs/getting-started/)
 - [Rendering elements with React 📝](https://reactjs.org/docs/rendering-elements.html)
 
 ## Week 2
 
-- [Create React App](https://create-react-app.dev/docs/getting-started/)
 - [React data flow ♻️](https://flaviocopes.com/react-unidirectional-data-flow/)
 - Naming conventions and project structure (examples)
 - [Components, props, prop validation](https://reactjs.org/docs/components-and-props.html)
