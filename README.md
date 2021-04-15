@@ -25,7 +25,6 @@
 
 - [Event loop (quick overview)](https://flaviocopes.com/javascript-event-loop/)
 - [Promises (quick overview) ☎️](https://flaviocopes.com/javascript-promises/)
-- Error handling
 - [Async execution](https://flaviocopes.com/javascript-async-await/)
 - [HTTP requests](https://www.robinwieruch.de/web-applications)
 
