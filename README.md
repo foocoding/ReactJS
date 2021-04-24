@@ -31,7 +31,7 @@
 ## Week 5
 
 - [React hooks: useEffect (fetching data from the web) 🪝](https://www.robinwieruch.de/react-hooks-fetch-data)
-- [Component lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
+- [Timing of effects](https://reactjs.org/docs/hooks-reference.html#useeffect)
 - [Conditional rendering and rendering lists](https://reactjs.org/docs/conditional-rendering.html)
 
 ## Week 6
