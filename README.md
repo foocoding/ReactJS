@@ -10,7 +10,7 @@
 - [Rendering elements with React 📝](https://reactjs.org/docs/rendering-elements.html)
 - Assignment introduction
 
-### Assignment checkpoints
+### Checkpoints
 
 - [ ] Setup a CRA project
 - [ ] Render some custom elements.
